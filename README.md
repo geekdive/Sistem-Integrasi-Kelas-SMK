@@ -19,10 +19,11 @@ Kita asumsikan untuk jaringan sudah siap pakai, sampai penggunaan akses internet
 - Persiapan Installasi Server di Komputer (Laptop, Komputer Desktop, Komputer Server)
 Kali ini kita akan menginstallkan sebuah sistem operasi OS Linux berbasis atau distro Ubuntu Server 16.04.03 LTS, dari itu kita akan memasangkan beberapa service agar kelas dapat dimaksimalkan dengan baik, yaitu diataranya:<br><br>
 <b>Bag. 1:</b> Menginstall OS Ubuntu Server di VirtualBox bisa lihat (<a href="https://github.com/septiyadii/Course-of-Website/wiki/Materi-K:-Membangun-Web-Server-di-VM-Ubuntu-Server-16.04.03-LTS">Disini</a>)<br><br>
-Setelah terinstall pastikan komputer serverterkonseksi internet dan sudah di set ip static, untuk itu jika belum silahkan atur pengaturannya seperti berikut:<br><br>
+Setelah terinstall pastikan komputer server terkonseksi internet dan sudah di set ip static, untuk itu jika belum silahkan atur pengaturannya seperti berikut:<br><br>
 <b>Bag. 2:</b> Mengatur IP Static pada Server Ubuntu (<a href="https://github.com/septiyadii/Course-of-Website/wiki/Materi-I:-Mengatur-IP-Static-Pada-Komputer-Server">Disini</a>)<br><br>
 Jika sudah kemudian kita siapkan beberapa folder penting sebagai penunjang kelas yang terdistribusi yaitu diantaranya adalah:<br>
 a) Folder `Tugas`<br>
 b) Folder `Pengumpulan Tugas`<br>
-b) Folder `Praktikum`<br>
-b) Folder `Artikel`<br>
+c) Folder `Praktikum`<br>
+d) Folder `Artikel`<br>
+e) Folder `Project`<br>
